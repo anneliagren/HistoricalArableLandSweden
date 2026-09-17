@@ -35,8 +35,10 @@ To apply this workflow for extrating arable land from Economic maps:
 1. Download the scanned paper maps from  
    🔗https://www.lantmateriet.se/sv/geodata/vara-produkter/produktlista/ekonomiska-kartan/
 
-2.Run the scripts in this repository in the numerical order in which they are named.
+2. Run the scripts in this repository in the numerical order in which they are named.
 
 3. Make sure to **Update all file paths** in the scripts to match your local directory structure.
+
+   For reproducibility, the traned model file  (xgboost_modelArable.json) is also avalable.
 
 ---
