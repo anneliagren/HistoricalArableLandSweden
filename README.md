@@ -1,6 +1,6 @@
 # Historical Arable Land for Sweden
 
-This repository contains the scripts required to automatically detect arable land from high‑resolution (1:10 000 and 1:20,000) scanned historical maps, specifically the Swedish Economic map (Ekonomiska kartan) 1935-1978. 
+This repository contains the scripts required to automatically detect arable land from high‑resolution (1:10 000 and 1:20,000) scanned historical maps, specifically the Swedish Economic map (Ekonomiska kartan) 1942–1988. 
 
 A machine learning model based on Extreme Gradient Boosting (XGBoost) was developed to identify arable land.  
 The model achieved exceptional performance, with a Cohen’s Kappa and Matthews Correlation Coefficient of 0.99.
