@@ -39,6 +39,6 @@ To apply this workflow for extrating arable land from Economic maps:
 
 3. Make sure to **Update all file paths** in the scripts to match your local directory structure.
 
-   For reproducibility, the traned model file  (xgboost_modelArable.json) is also avalable.
+   For reproducibility, the traned model file  (xgboost_modelArable.json) is also available.
 
 ---
